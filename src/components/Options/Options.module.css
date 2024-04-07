@@ -1,0 +1,12 @@
+.allButtons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 5px;
+    margin-bottom: 15px;
+}
+
+.buttonOptions{
+    letter-spacing: 0.08em;
+}
